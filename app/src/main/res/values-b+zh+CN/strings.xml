@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">lab 3.2</string>
+    <string name="flag">旗</string>
+    <string name="age">年龄</string>
+    <string name="gender">性别</string>
+    <string name="male">男</string>
+    <string name="demale">女</string>
+    <string name="smoker">抽烟者 ?</string>
+    <string name="premium">额外费用 :</string>
+    <string name="calculate">计算</string>
+    <string name="reset">重启</string>
+    <string-array name="age_group">
+        <item>少于 5</item>
+        <item>5 至 10</item>
+        <item>11 至 16</item>
+        <item>17 至 21</item>
+        <item>22 至 30</item>
+        <item>31 至 40</item>
+        <item>41 至 50</item>
+        <item>更多 50</item>
+    </string-array>
+</resources>
